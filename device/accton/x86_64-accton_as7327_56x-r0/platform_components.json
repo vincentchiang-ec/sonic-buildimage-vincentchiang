@@ -1,0 +1,12 @@
+{
+    "chassis": {
+        "7327-56X-O-AC-F": {
+            "component": {
+                "CPLD1": { },
+                "CPLD2": { },
+                "FPGA": { },
+                "BIOS": { }
+            }
+        }
+    }
+}

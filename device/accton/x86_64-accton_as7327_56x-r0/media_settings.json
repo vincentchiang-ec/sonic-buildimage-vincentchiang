@@ -1,0 +1,1220 @@
+{
+    "PORT_MEDIA_SETTINGS": {
+        "1": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x194605"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0A3200"
+                }
+            }
+        },
+        "2": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x14460A"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0A3200"
+                }
+            }
+        },
+        "3": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x194605"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0A3200"
+                }
+            }
+        },
+        "4": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x194605"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0A3200"
+                }
+            }
+        },
+        "5": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x194605"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0A3200"
+                }
+            }
+        },
+        "6": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x194605"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0A3200"
+                }
+            }
+        },
+        "7": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x194605"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0A3200"
+                }
+            }
+        },
+        "8": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x194605"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0A3200"
+                }
+            }
+        },
+        "9": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x194605"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0A2D00"
+                }
+            }
+        },
+        "10": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x194605"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0A3200"
+                }
+            }
+        },
+        "11": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x194605"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0A3200"
+                }
+            }
+        },
+        "12": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x194605"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0A3200"
+                }
+            }
+        },
+        "13": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x144B05"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0A3200"
+                }
+            }
+        },
+        "14": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x144B05"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0A3200"
+                }
+            }
+        },
+        "15": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x144B05"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0A3200"
+                }
+            }
+        },
+        "16": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x144B05"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x082D00"
+                }
+            }
+        },
+        "17": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x144B05"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x082D00"
+                }
+            }
+        },
+        "18": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x0F5005"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x082D00"
+                }
+            }
+        },
+        "19": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x144B05"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x082D00"
+                }
+            }
+        },
+        "20": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x0F4105"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x082D00"
+                }
+            }
+        },
+        "21": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x0F5005"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x082D00"
+                }
+            }
+        },
+        "22": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x0F5005"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x082D00"
+                }
+            }
+        },
+        "23": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x0F5005"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x082D00"
+                }
+            }
+        },
+        "24": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x0A5505"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x082D00"
+                }
+            }
+        },
+        "25": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x0A5505"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x062800"
+                }
+            }
+        },
+        "26": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x0A3C05"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x062800"
+                }
+            }
+        },
+        "27": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x0A5505"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x062800"
+                }
+            }
+        },
+        "28": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x0A3C05"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x062800"
+                }
+            }
+        },
+        "29": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x0A5505"
+                }
+            },
+            "Default": {
+                "preemphasis": {
+                    "lane0":"0x062800"
+                }
+            }
+        },
+        "30": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x0A3C05"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x062800"
+                }
+            }
+        },
+        "31": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x0A5505"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x062800"
+                }
+            }
+        },
+        "32": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x0A3C05"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x062800"
+                }
+            }
+        },
+        "33": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x0A3C05"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x062800"
+                }
+            }
+        },
+        "34": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x0A3C05"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x062800"
+                }
+            }
+        },
+        "35": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x0A3C05"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x062800"
+                }
+            }
+        },
+        "36": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x0A3C05"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x062800"
+                }
+            }
+        },
+        "37": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x0A3C05"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x062800"
+                }
+            }
+        },
+        "38": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x0A3C05"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x062800"
+                }
+            }
+        },
+        "39": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x0A3C05"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x062800"
+                }
+            }
+        },
+        "40": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x0A3C05"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x062800"
+                }
+            }
+        },
+        "41": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x0C3C05"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x062800"
+                }
+            }
+        },
+        "42": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x0D3C05"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x082800"
+                }
+            }
+        },
+        "43": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x0F5005"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x062800"
+                }
+            }
+        },
+        "44": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x0F4105"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x062800"
+                }
+            }
+        },
+        "45": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x0F4105"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0A3200"
+                }
+            }
+        },
+        "46": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x124105"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0A3200"
+                }
+            }
+        },
+        "47": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x124105"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0A3200"
+                }
+            }
+        },
+        "48": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x124105"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0A3200"
+                }
+            }
+        },
+        "49": {
+            "100000": {
+                "preemphasis": {
+                    "lane0":"0x194605",
+                    "lane1":"0x194605",
+                    "lane2":"0x194605",
+                    "lane3":"0x194605"
+                }
+            },
+            "40000": {
+                "preemphasis": {
+                    "lane0":"0x0C3702",
+                    "lane1":"0x0C3702",
+                    "lane2":"0x0C3702",
+                    "lane3":"0x0C3702"
+                }
+            },
+            "50000": {
+                "preemphasis": {
+                    "lane0":"0x194605",
+                    "lane1":"0x194605",
+                    "lane2":"0x194605",
+                    "lane3":"0x194605"
+                }
+            },
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x194605"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0C3702"
+                }
+            }
+        },
+        "50": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x194605"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0C3702"
+                }
+            }
+        },
+        "51": {
+            "50000": {
+                "preemphasis": {
+                    "lane0":"0x194605",
+                    "lane1":"0x194605",
+                    "lane2":"0x194605",
+                    "lane3":"0x194605"
+                }
+            },
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x194605"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0C3702"
+                }
+            }
+        },
+        "52": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x194605"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0C3702"
+                }
+            }
+        },
+        "53": {
+            "100000": {
+                "preemphasis": {
+                    "lane0":"0x194605",
+                    "lane1":"0x194605",
+                    "lane2":"0x194605",
+                    "lane3":"0x194605"
+                }
+            },
+            "40000": {
+                "preemphasis": {
+                    "lane0":"0x0C3702",
+                    "lane1":"0x0C3702",
+                    "lane2":"0x0C3702",
+                    "lane3":"0x0C3702"
+                }
+            },
+            "50000": {
+                "preemphasis": {
+                    "lane0":"0x194605",
+                    "lane1":"0x194605",
+                    "lane2":"0x194605",
+                    "lane3":"0x194605"
+                }
+            },
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x194605"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0C3702"
+                }
+            }
+        },
+        "54": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x194605"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0C3702"
+                }
+            }
+        },
+        "55": {
+            "50000": {
+                "preemphasis": {
+                    "lane0":"0x194605",
+                    "lane1":"0x194605",
+                    "lane2":"0x194605",
+                    "lane3":"0x194605"
+                }
+            },
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x194605"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0C3702"
+                }
+            }
+        },
+        "56": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x194605"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0C3702"
+                }
+            }
+        },
+        "57": {
+            "100000": {
+                "preemphasis": {
+                    "lane0":"0x194605",
+                    "lane1":"0x194605",
+                    "lane2":"0x194605",
+                    "lane3":"0x194605"
+                }
+            },
+            "40000": {
+                "preemphasis": {
+                    "lane0":"0x0C3702",
+                    "lane1":"0x0C3702",
+                    "lane2":"0x0C3702",
+                    "lane3":"0x0C3702"
+                }
+            },
+            "50000": {
+                "preemphasis": {
+                    "lane0":"0x194605",
+                    "lane1":"0x194605",
+                    "lane2":"0x194605",
+                    "lane3":"0x194605"
+                }
+            },
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x194605"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0C3702"
+                }
+            }
+        },
+        "58": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x194605"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0C3702"
+                }
+            }
+        },
+        "59": {
+            "50000": {
+                "preemphasis": {
+                    "lane0":"0x194605",
+                    "lane1":"0x194605",
+                    "lane2":"0x194605",
+                    "lane3":"0x194605"
+                }
+            },
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x194605"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0C3702"
+                }
+            }
+        },
+        "60": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x194605"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0C3702"
+                }
+            }
+        },
+        "61": {
+            "100000": {
+                "preemphasis": {
+                    "lane0":"0x144B05",
+                    "lane1":"0x144B05",
+                    "lane2":"0x144B05",
+                    "lane3":"0x144B05"
+                }
+            },
+            "40000": {
+                "preemphasis": {
+                    "lane0":"0x0A3202",
+                    "lane1":"0x0A3202",
+                    "lane2":"0x0A3202",
+                    "lane3":"0x0A3202"
+                }
+            },
+            "50000": {
+                "preemphasis": {
+                    "lane0":"0x144B05",
+                    "lane1":"0x144B05",
+                    "lane2":"0x144B05",
+                    "lane3":"0x144B05"
+                }
+            },
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x144B05"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0A3202"
+                }
+            }
+        },
+        "62": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x144B05"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0A3202"
+                }
+            }
+        },
+        "63": {
+            "50000": {
+                "preemphasis": {
+                    "lane0":"0x144B05",
+                    "lane1":"0x144B05",
+                    "lane2":"0x144B05",
+                    "lane3":"0x144B05"
+                }
+            },
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x144B05"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0A3202"
+                }
+            }
+        },
+        "64": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x144B05"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0A3202"
+                }
+            }
+        },
+        "65": {
+            "100000": {
+                "preemphasis": {
+                    "lane0":"0x194605",
+                    "lane1":"0x194605",
+                    "lane2":"0x194605",
+                    "lane3":"0x194605"
+                }
+            },
+            "40000": {
+                "preemphasis": {
+                    "lane0":"0x0C3702",
+                    "lane1":"0x0C3702",
+                    "lane2":"0x0C3702",
+                    "lane3":"0x0C3702"
+                }
+            },
+            "50000": {
+                "preemphasis": {
+                    "lane0":"0x194605",
+                    "lane1":"0x194605",
+                    "lane2":"0x194605",
+                    "lane3":"0x194605"
+                }
+            },
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x194605"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0C3702"
+                }
+            }
+        },
+        "66": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x194605"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0C3702"
+                }
+            }
+        },
+        "67": {
+            "50000": {
+                "preemphasis": {
+                    "lane0":"0x194605",
+                    "lane1":"0x194605",
+                    "lane2":"0x194605",
+                    "lane3":"0x194605"
+                }
+            },
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x194605"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0C3702"
+                }
+            }
+        },
+        "68": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x194605"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0C3702"
+                }
+            }
+        },
+        "69": {
+            "100000": {
+                "preemphasis": {
+                    "lane0":"0x194605",
+                    "lane1":"0x194605",
+                    "lane2":"0x194605",
+                    "lane3":"0x194605"
+                }
+            },
+            "40000": {
+                "preemphasis": {
+                    "lane0":"0x0C3702",
+                    "lane1":"0x0C3702",
+                    "lane2":"0x0C3702",
+                    "lane3":"0x0C3702"
+                }
+            },
+            "50000": {
+                "preemphasis": {
+                    "lane0":"0x194605",
+                    "lane1":"0x194605",
+                    "lane2":"0x194605",
+                    "lane3":"0x194605"
+                }
+            },
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x194605"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0C3702"
+                }
+            }
+        },
+        "70": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x194605"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0C3702"
+                }
+            }
+        },
+        "71": {
+            "50000": {
+                "preemphasis": {
+                    "lane0":"0x194605",
+                    "lane1":"0x194605",
+                    "lane2":"0x194605",
+                    "lane3":"0x194605"
+                }
+            },
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x194605"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0C3702"
+                }
+            }
+        },
+        "72": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x194605"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0C3702"
+                }
+            }
+        },
+        "73": {
+            "100000": {
+                "preemphasis": {
+                    "lane0":"0x194605",
+                    "lane1":"0x194605",
+                    "lane2":"0x194605",
+                    "lane3":"0x194605"
+                }
+            },
+            "40000": {
+                "preemphasis": {
+                    "lane0":"0x0C3702",
+                    "lane1":"0x0C3702",
+                    "lane2":"0x0C3702",
+                    "lane3":"0x0C3702"
+                }
+            },
+            "50000": {
+                "preemphasis": {
+                    "lane0":"0x194605",
+                    "lane1":"0x194605",
+                    "lane2":"0x194605",
+                    "lane3":"0x194605"
+                }
+            },
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x194605"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0C3702"
+                }
+            }
+        },
+        "74": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x194605"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0C3702"
+                }
+            }
+        },
+        "75": {
+            "50000": {
+                "preemphasis": {
+                    "lane0":"0x194605",
+                    "lane1":"0x194605",
+                    "lane2":"0x194605",
+                    "lane3":"0x194605"
+                }
+            },
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x194605"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0C3702"
+                }
+            }
+        },
+        "76": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x194605"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0C3702"
+                }
+            }
+        },
+        "77": {
+            "100000": {
+                "preemphasis": {
+                    "lane0":"0x194605",
+                    "lane1":"0x194605",
+                    "lane2":"0x194605",
+                    "lane3":"0x194605"
+                }
+            },
+            "40000": {
+                "preemphasis": {
+                    "lane0":"0x0C3702",
+                    "lane1":"0x0C3702",
+                    "lane2":"0x0C3702",
+                    "lane3":"0x0C3702"
+                }
+            },
+            "50000": {
+                "preemphasis": {
+                    "lane0":"0x194605",
+                    "lane1":"0x194605",
+                    "lane2":"0x194605",
+                    "lane3":"0x194605"
+                }
+            },
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x194605"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0C3702"
+                }
+            }
+        },
+        "78": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x194605"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0C3702"
+                }
+            }
+        },
+        "79": {
+            "50000": {
+                "preemphasis": {
+                    "lane0":"0x194605",
+                    "lane1":"0x194605",
+                    "lane2":"0x194605",
+                    "lane3":"0x194605"
+                }
+            },
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x194605"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0C3702"
+                }
+            }
+        },
+        "80": {
+            "25000": {
+                "preemphasis": {
+                    "lane0":"0x194605"
+                }
+            },
+            "10000": {
+                "preemphasis": {
+                    "lane0":"0x0C3702"
+                }
+            }
+        }
+    }
+}

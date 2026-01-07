@@ -1,0 +1,17 @@
+# Special arrangement to make PDDF mode default
+# Disable monitor, monitor-fan, monitor-psu (not enabling them would imply they will be disabled by default)
+# Enable pddf-platform-monitor
+
+depmod -a
+systemctl enable as7327-platform-handle_mac.service
+systemctl start as7327-platform-handle_mac.service
+systemctl enable as7327-platform-init.service
+systemctl start as7327-platform-init.service
+systemctl enable as7327-platform-monitor.service
+systemctl start as7327-platform-monitor.service
+systemctl enable as7327-platform-monitor-fan.service
+systemctl start as7327-platform-monitor-fan.service
+systemctl enable as7327-platform-monitor-psu.service
+systemctl start as7327-platform-monitor-psu.service
+systemctl enable watchdog-controller.service
+systemctl start watchdog-controller.service

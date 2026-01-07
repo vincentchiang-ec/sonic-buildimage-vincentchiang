@@ -1,0 +1,15 @@
+[Unit]
+Description=Accton AS7327-56X Platform Monitoring FAN service
+Before=pmon.service
+After=as7327-56x-platform-init.service
+Requires=as7327-56x-platform-init.service
+DefaultDependencies=no
+
+[Service]
+ExecStart=/usr/local/bin/accton_as7327_56x_monitor_fan.py
+
+# Resource Limitations
+LimitCORE=infinity
+
+[Install]
+WantedBy=multi-user.target

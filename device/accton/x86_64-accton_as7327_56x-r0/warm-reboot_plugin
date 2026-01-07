@@ -1,0 +1,3 @@
+#!/bin/bash
+
+systemctl stop as7327-platform-init.service
